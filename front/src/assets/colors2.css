@@ -1,0 +1,34 @@
+.currencies-all .owl-nav .owl-next,.currencies-all .owl-nav .owl-prev,.copyright a,
+.supported-c .tabs-content .tabs-menu ul li a.active-tab-menu,
+.steps .step-content .block .ico i,
+.w-use-block ul.align-left li:hover a,
+.supported-c .tabs-content .tabs-menu ul li a:hover,
+.f-contact li span {
+	color: #ff6363;
+}
+
+.main-nav .nav-login,
+.main-nav .nav-login .search-form input,
+.banner .slider1 a.cbtn,
+.token .token-blog .overlay,
+.currencies-all .owl-nav .owl-next:hover,
+.currencies-all .owl-nav .owl-prev:hover,
+.steps .bar .fill,
+.steps .step-content .block .numbers span,
+.price-table .ico i,
+.price-table .cbtn,
+.strong-coin .work-block .w-icon span,
+.how-help-tab .tab-pane,.how-help-tab .tab-pane:before,
+.e-wallet .list-item a .ico span,
+.how-help-tab .tab-pane .down-triangle   {
+  background: #ff6363;
+}
+
+.currencies-all .owl-nav .owl-next,.currencies-all .owl-nav .owl-prev,
+.h-style1:after,
+.h-style2:before,
+.h-style2:after,
+.h-style3 .hl h2:after, .h-style3 .hl h2:before,
+.f-block .h-head h2:before  {
+	border-color: #ff6363;
+}
